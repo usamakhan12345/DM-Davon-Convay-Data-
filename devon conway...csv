@@ -1,0 +1,31 @@
+ Match ID,Batting Position,Ground,City,Opposing Team,Pitch Conditions, Weather Conditions,Average Run last 5 Matches,fours last 5 matches,sixes last 5 matches,Score,fours,sixes,Score Prediciton
+1,1,ma-chidambaram,Chennai,Afghanistan,Dry,Sunny,49,24,2,20,3,0,low
+2,2,cazaly-s-stadium,Cairns,Australia,Dry,Sunny,35,23,1,46,4,1,medium
+3,2,cazaly-s-stadium,Cairns,Australia,Good,Sunny,55,22,0,5,0,0,low
+4,1,cazaly-s-stadium,Cairns,Australia,Good,Sunny,47,16,2,21,5,0,medium
+5,1,himachal-pradesh,Dharamsala,Australia,Good,Sunny,24,14,1,28,6,0,low
+6,1,university-oval,Dunedin,Bangladesh,Good,Partly cloudy,24,18,1,37,2,0,medium
+7,1,hagley-oval,Christchurch,Bangladesh,Good,Sunny,23,17,1,72,7,0,high
+8,1,basin-reserve,Wellington,Bangladesh,Good,Cloudy,37,20,0,126,17,0,high
+9,1,ma-chidambaram,Chennai,Bangladesh,Good,Sunny,56,37,0,45,3,0,medium
+10,1,sophia-gardens,Cardiff,England,Good,Partly cloudy,61,35,0,111,13,1,high
+11,1,the-rose-bowl,Southampton,England,Good,Sunny,78,42,1,14,2,0,low
+12,1,kennington-ova,The Oval,England,Good,Sunny,73,42,1,9,1,0,low
+13,1,lord-s-london-,Lord's,England,Dry,Sunny,61,36,1,7,1,0,low
+14,1,narendra-modi,Ahmedabad,England,Good,Sunny,37,20,1,152,19,3,high
+15,2,eden-park-,Auckland,India,Good,Sunny,58,36,4,24,3,0,medium
+16,2,seddon-park,Hamilton,India,Good,Sunny,37,26,3,38,6,0,medium
+17,2,hagley-oval,Christchurch,India,Good,Sunny,46,20,3,10,2,0,low
+18,2,gandhi stadium,Hyderabad,India,Good,Sunny,46.2,31,3,7,1,0,low
+19,2,gandhi stadium,Hyderabad,India,Good,Sunny,46.2,31,3,138,12,8,high
+20,1,gandhi stadium,Hyderabad,Netherlands,Good,Sunny,43.4,24,8,32,5,1,medium
+21,2,National Stadium,Karachi,Pakistan,Good,Sunny,45,26,9,0,0,0,low
+22,2,National Stadium,Karachi,Pakistan,Good,Sunny,37.4,20,9,101,13,1,high
+23,2,National Stadium,Karachi,Pakistan,Dry,Sunny,55.6,31,10,52,5,1,high
+24,4,kensington,Bridgetown,West Indies,Dry,Sunny,64.6,35,11,4,0,0,low
+25,3,kensington,Bridgetown,West Indies,Dry,Sunny,37.8,23,3,6,0,0,low
+26,3,kensington,Bridgetown,West Indies,Good,Cloudy,32.6,18,2,56,6,0,high
+27,2,cazaly-s-stadium,Cairns,Australia,Good,Sunny,41.6,24,2,46,4,1,medium
+28,2,cazaly-s-stadium,Cairns,Australia,Good,Sunny,32.8,15,2,5,0,0,low
+29,2,cazaly-s-stadium,Cairns,Australia,Good,Cloudy,23.4,10,1,21,5,0,low
+30,1,sophia-gardens,Cardiff, England,Good,Sunny,26.8,15,1,14,2,0,low
